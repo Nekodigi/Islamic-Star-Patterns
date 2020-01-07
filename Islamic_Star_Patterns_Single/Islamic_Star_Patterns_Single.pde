@@ -1,3 +1,8 @@
+// Daniel Shiffman
+// http://codingtra.in
+// http://patreon.com/codingtrain
+// Code for: https://youtu.be/akM4wMZIBWg
+
 int n = 4;
 float level = 0;
 float elen = 400;
